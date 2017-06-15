@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/upper_button_ticket"
+        android:icon="@drawable/ticket"
+        android:title="@string/ticket" />
+
+    <item
+        android:id="@+id/upper_button_season_ticket"
+        android:icon="@drawable/season_ticket"
+        android:title="@string/seasonTicket" />
+
+</menu>

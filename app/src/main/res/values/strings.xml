@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">confirmTicket</string>
+
+    <!--bottom-->
+    <string name="home">홈</string>
+    <string name="basket">장바구니</string>
+    <string name="trainSearch">열차 조회하기</string>
+    <string name="seasonSearch">정기권 조회하기</string>
+
+    <!--top-->
+    <string name="ticket">승차권</string>
+    <string name="seasonTicket">정기권/패스</string>
+
+</resources>
